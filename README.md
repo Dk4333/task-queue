@@ -18,7 +18,7 @@ Endpoints
 
 Configuration
 
-- Worker pool size: `src/main/resources/application.properties` `worker.count` (default 3)
+- Worker pool size: `src/main/resources/application.properties` `worker.count` (default 2)
 
 Design notes
 
